@@ -2,3 +2,7 @@
 *.sql
 *.sqlite
 *.json
+note.*
+data
+*.txt
+outputs
