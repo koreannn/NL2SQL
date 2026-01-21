@@ -1,6 +1,10 @@
 data:
   train_labeled_data_path: "./data/Training/labeled_data"
   train_source_data_path: "./data/Training/source_data"
+  train_annotation_path: "./data/Training/source_data/annotation"
+  test_labeled_data_path: "./data/Validation/labeled_data_valid"
+  test_source_data_path: "./data/Validation/source_data_valid"
+  test_annotation_path: "./data/Validation/source_data_valid/annotation_valid"
 
 model:
   model_name: "klue/bert-base"

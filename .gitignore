@@ -6,3 +6,5 @@ note.*
 data
 *.txt
 outputs
+__pycache__/
+outputs
