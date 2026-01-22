@@ -12,10 +12,10 @@ SQL 쿼리의 Syntax와 semantic 정확도 둘 다 잘 잡아야하기 때문에
 
 ```mermaid
 flowchart LR
-  A[사용자 자연어 입력] --> B[Schema Linking]
-  B --> C[Prompt 구성]
-  C --> D[pko-T5 (Text-to-SQL)]
-  D --> E[SQL Query 출력]
+  A["사용자 자연어 입력"] --> B["Schema Linking"]
+  B --> C["Prompt 구성"]
+  C --> D["pko-T5 Text to SQL"]
+  D --> E["SQL Query 출력"]
 ```
 
 <br>
