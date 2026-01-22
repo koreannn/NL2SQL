@@ -51,6 +51,6 @@ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDat
 
 ---
 
-# fff
+# 유의사항
 
 데이터 및 체크포인트 등은 ignore처리해서 올려주시기 바랍니다.
